@@ -7,7 +7,8 @@ Este proyecto forma parte de un análisis avanzado de retención de clientes par
 El objetivo principal es desarrollar un modelo capaz de identificar proactivamente a los clientes con alta probabilidad de cancelar su servicio. Mediante el análisis de variables demográficas, servicios contratados y datos de facturación, se busca proporcionar a la empresa herramientas para diseñar estrategias de retención efectivas.
 
 📂 **Estructura del Proyecto**
-TelecomX_LATAM_MG-PARTE2.ipynb: Cuaderno principal con el flujo completo de limpieza, modelado y evaluación.
+
+TelecomX_LATAM_MG_Parte2.ipynb: Cuaderno principal con el flujo completo de limpieza, modelado y evaluación.
 
 datos_tratados.csv: Conjunto de datos procesado y listo para el modelado (cargado automáticamente desde el repositorio).
 
