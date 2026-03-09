@@ -1,4 +1,4 @@
-**Telecom X - Predicción de Churn (Parte 2)**
+**Telecom X - Predicción de Churn - Parte 2**
 
 
 Este proyecto forma parte de un análisis avanzado de retención de clientes para la empresa Telecom X. El enfoque principal es la aplicación de modelos de Machine Learning para predecir la evasión de clientes (churn).
