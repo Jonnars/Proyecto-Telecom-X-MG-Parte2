@@ -50,7 +50,7 @@ Antigüedad: Se identificó una "zona crítica" de fuga antes de los 18 meses de
 Para ejecutar el cuaderno en tu entorno local o en Google Colab:
 
 Bibliotecas necesarias:
-Asegúrate de tener instaladas las siguientes librerías: pandas, scikit-learn, seaborn, matplotlib. 
+Asegúrate de tener instaladas las siguientes librerías: *pandas, scikit-learn, seaborn, matplotlib*.
 
 🚀 **Cómo ejecutar este proyecto**
 
@@ -59,8 +59,8 @@ Este proyecto fue desarrollado en Google Colab. Para ejecutarlo correctamente, s
 Instalar dependencias: Ejecuta la primera celda del cuaderno o asegúrate de tener instaladas las librerías en tu entorno:
  pip install pandas matplotlib seaborn scikit-learn
  
-Acceso a los datos: El código ya incluye la URL de GitHub donde está alojado el archivo `datos_tratados.csv`. No necesitas subir ningún archivo manualmente al entorno de Colab; el cuaderno lo descargará de forma automática al iniciar.
+Acceso a los datos: El código ya incluye la *URL de GitHub* donde está alojado el archivo `datos_tratados.csv`. No necesitas subir ningún archivo manualmente al entorno de Colab; el cuaderno lo descargará de forma automática al iniciar.
 
-**Ejecución**: Ve al menú superior de Google Colab y selecciona **Entorno de ejecución > Ejecutar todas**.
+Ejecución: Ve al menú superior de Google Colab y selecciona *Entorno de ejecución > Ejecutar todas*.
 
 Autor: Jonatan Andrade   
