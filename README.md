@@ -33,9 +33,9 @@ División de Datos: Se separaron los datos en conjuntos de Entrenamiento (80%) y
 🧠 **Modelización y Decisiones**
 Se evaluaron y compararon dos modelos principales:
 
-Regresión Logística (Seleccionado): Elegido por su estabilidad y por permitir una interpretación clara mediante coeficientes. A pesar de la complejidad de los datos, demostró ser el modelo más robusto.
+Árbol de Decisión (Seleccionado por Desempeño): Tras ajustar la consistencia de los datos, este modelo demostró ser el más efectivo para el negocio, logrando un Accuracy del 78% y un Recall del 57%. Esto significa que es capaz de detectar a más de la mitad de los clientes en riesgo de fuga.
 
-Árbol de Decisión (Descartado): Aunque es visualmente intuitivo, presentó una sensibilidad excesiva a la estructura de los datos en este caso particular (Recall 0), lo que llevó a su descarte frente a la Regresión Logística.
+Regresión Logística: Aunque es estable y fácil de interpretar, presentó un Recall menor (25%), lo que la hace menos efectiva para detectar casos reales de evasión en comparación con el árbol.
 
 📊 **Insights y Visualizaciones (EDA)**
 Durante el Análisis Exploratorio de Datos, se obtuvieron hallazgos críticos:
@@ -63,4 +63,4 @@ Acceso a los datos: El código ya incluye la *URL de GitHub* donde está alojado
 
 Ejecución: Ve al menú superior de Google Colab y selecciona *Entorno de ejecución > Ejecutar todas*.
 
-Autor: Jonatan Andrade   
+Autor: Jonatan Andrade  
